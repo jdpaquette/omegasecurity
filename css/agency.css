@@ -107,6 +107,7 @@ img::-moz-selection {
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
 }
 
+
 #mainNav {
   background-color: #212529;
 }
@@ -150,7 +151,7 @@ img::-moz-selection {
     padding-bottom: 25px;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+/*    background-color: transparent; */
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
